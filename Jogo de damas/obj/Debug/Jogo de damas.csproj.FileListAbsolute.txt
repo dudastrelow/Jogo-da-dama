@@ -1,0 +1,11 @@
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\bin\Debug\Jogo de damas.exe.config
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\bin\Debug\Jogo de damas.exe
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\bin\Debug\Jogo de damas.pdb
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo de damas.csproj.AssemblyReference.cache
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo de damas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo_de_damas.Form1.resources
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo_de_damas.Properties.Resources.resources
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo de damas.csproj.GenerateResource.cache
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo de damas.csproj.CoreCompileInputs.cache
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo de damas.exe
+C:\Users\Duda\source\repos\Jogo de damas\Jogo de damas\obj\Debug\Jogo de damas.pdb
